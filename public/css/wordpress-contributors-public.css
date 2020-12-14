@@ -1,0 +1,34 @@
+.wordpress-contributors .wp-contributors-content-title {
+    margin-bottom: 10px;
+}
+
+.wordpress-contributors .wp-contributors-content-list {
+    list-style: none;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+}
+
+.wordpress-contributors .wp-contributors-content-list li,
+.wordpress-contributors .wp-contributors-content-list li a img {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.wordpress-contributors .wp-contributors-content-list li {
+    margin-right: 10px;
+}
+
+.wordpress-contributors .wp-contributors-content-list li:last-child {
+    margin-right: 0px;
+}
+
+.wordpress-contributors .wp-contributors-content-list li a {
+    text-decoration: none;
+}
+
+.wordpress-contributors .wp-contributors-content-list li a span
+{
+    display: inline-block;
+    line-height: 25px;
+    vertical-align: text-bottom
+}
